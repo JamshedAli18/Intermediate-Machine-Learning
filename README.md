@@ -30,4 +30,4 @@ To get started with the course, ensure you have the following prerequisites inst
    - The most accurate modeling technique for structured data.
 
 7. **Data Leakage**
-   - Find and fix this problem that ruins your model in subtle ways.
+   - Find and fix this problem that ruins your model in subtle ways
